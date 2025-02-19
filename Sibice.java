@@ -24,6 +24,8 @@ public class Sibice {
             }
         }
 
+        scanner.close();
+
 
     }
 }
